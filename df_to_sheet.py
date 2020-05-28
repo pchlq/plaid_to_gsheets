@@ -238,7 +238,6 @@ def make_pivotTbl(source_sheet_id: int,
 
     )
 
-
     body = {
         'requests': requests
     }
